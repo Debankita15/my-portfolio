@@ -20,4 +20,4 @@ Welcome to my portfolio! This project showcases my skills as a Data Scientist, i
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/my-portfolio.git
+   git clone https://github.com/Debankita15/my-portfolio.git
